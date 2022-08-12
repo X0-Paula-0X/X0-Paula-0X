@@ -5,10 +5,11 @@
   <a href="https://github.com/X0-Paula-0X">
     
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=X0-Paula-0X&repo=aulas-html-css&layout=compact&langs_count=7&theme=highcontrast)](https://github.com/X0-Paula-0X/aulas-html-css)
-    </div>
-    <div aling="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=X0-Paula-0X&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=X0-Paula-0X&layout=compact&langs_count=7&theme=highcontrast"/>
+    
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=X0-Paula-0X&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+    
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=X0-Paula-0X&layout=compact&langs_count=7&theme=highcontrast"/>
+    
 </div>
 
 ##
